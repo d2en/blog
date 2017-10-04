@@ -1,15 +1,15 @@
 # Site settings
-title: dario Blog
+title: Blog
 header-img: img/home-bg.jpg
 email: contact@dario.com
-copyright_name: Your/Project/Corporate Name
-description: "dario.com blog or resource page. It will be used as your sites meta description as well!"
+copyright_name:
+description: "Security is a business requirement. Protecting privacy is good business. Understand - Take Action."
 baseurl: "/blog"
 url: "https://dario.com"
 twitter_username: darioS3C
-github_username:  
-facebook_username:  
-email_username:  email_username@yourdomain.com
+github_username:
+facebook_username:
+email_username:  contact@dario.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
@@ -19,7 +19,7 @@ google_tracking_id: UA-98131817-2
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
