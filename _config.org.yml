@@ -1,27 +1,27 @@
 # Site settings
 title: Resources
-header-img: img/home.jpg
+header-img: img/home-bg.jpg
 author: dario
 email: contact@dario.com
 title_name: dario.com
 copyright_name: dario.com • Security • Privacy
-description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.com"
+description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business."
 baseurl: "/resources"
 url: "https://dario.com"
 twitter_username: darioS3C
 github_username:
 facebook_username:
-email_username: contact@dario.com
+email_username:
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-98131817-2
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-collections:
-   services:
-     output: true
-  # secure-assets:
-  #  output: true
+
 gems: [jekyll-paginate, jekyll-feed]
