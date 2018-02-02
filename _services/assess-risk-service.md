@@ -13,21 +13,21 @@ header-license: CC0 Creative Commons
 ---
 
 ## Data is one of your most valuable assets
-Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable assets an organization possesses. This [Harvard Business School article](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_blank"} highlights Caesar’s Entertainment loyalty program, _Total Rewards_.
+Increasingly our world runs on data; some of it critical, much of it confidential. Information has become one of the most valuable assets an organization possesses. This [Harvard Business School article](https://digit.hbs.org/submission/caesars-entertainment-what-happens-in-vegas-ends-up-in-a-1billion-database/){:rel="nofollow noopener noreferrer"}{:target="_blank"} highlights Caesar’s Entertainment loyalty program, _Total Rewards_;
 
 > ### The most valuable asset in the Caesar’s Entertainment Corp. isn’t the fabulously-tacky Roman-themed resort on the Las Vegas strip.  It’s the company’s big data loyalty program, valued at $1 billion.
 -- <cite>Harvard Business School</cite>
 
-The data stored in _Total Rewards_ loyalty program was estimated to be worth over $1 billion and was at the centre of a very heated Caesar’s Palace bankruptcy feud with its creditors. Information in the loyalty program was deemed a more valuable asset then physical property, including the Roman-themed resort on the Las Vegas strip.
+The data stored in the _Total Rewards_ loyalty program was estimated to be worth over $1 billion and was at the centre of a very heated Caesar’s Palace bankruptcy feud with its creditors. Information in the loyalty program was deemed a more valuable asset then physical property, including the Roman-themed resort on the Las Vegas strip.
 
-**Not convinced data is at the center of your organization?**  
+**Not convinced data is at the centre of your organization?**  
 The world produces 2.5 quintillion bytes of information each day. This recent article by The World Economic Forum, [The value of data](https://www.weforum.org/agenda/2017/09/the-value-of-data/){:rel="nofollow noopener noreferrer"}{:target="_blank"} _states:_
 
 > ### In this age of hyper connected consumers, data is definitely the new age ‘oil’.
 -- <cite>World Economic Forum</cite>
 
 **Identify critical data, business processes and people**  
-Your organization may produce and store mission critical data, intellectual property, patents, and business methodologies. How can you effectively assign resources to secure your data? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are critical to your organization helps direct resources efficiently and effectively.
+Your organization may produce and store mission critical data, intellectual property, patents, and business methodologies. How can you effectively assign resources to secure your data? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are vital to your organization helps direct resources efficiently and effectively.
 
 > ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
