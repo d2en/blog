@@ -32,10 +32,10 @@ Your organization may produce and store mission critical data, intellectual prop
 > ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
 
-The quote by McGeorge Bundy illustrates the importance of identifying key assets. Another example would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patients records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) as well as on the clinic's reputation.
+The quote by McGeorge Bundy illustrates the importance of identifying key assets. Another example would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients' medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patient records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) and in terms of the clinic's reputation.
 
 
 ### We help you to better perceive risk
-By analyzing the exposure of data to threats and vulnerabilities, informed decisions help mitigate the risk. A **risk assessment** is a valuable tool and the first step for an organization deciding how to counter risks to one of its most important asset: information.
+By analyzing the exposure of data to threats and vulnerabilities, you can make informed decisions to mitigate the risk. A **risk assessment** is a valuable tool and the first step for an organization deciding how to counter risks to one of its most important assets: information.
 
 To hear how we can help you create and maintain a resilient risk management program, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
