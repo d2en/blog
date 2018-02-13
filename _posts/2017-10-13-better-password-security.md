@@ -32,3 +32,5 @@ To make sure users and data are protected, organizations need to transition to m
 * **Something you are** (ex. fingerprint)
 
 With the ever-rising need to securely identify themselves to access information, users must be given simple yet secure guidelines regarding passwords. An organization must take it upon itself to make every effort to build robust digital identity procedures. Taking a look at the [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63-3.html){:rel="nofollow"}{:target="_blank"} can be time well spent.
+
+To help your people improve their security mindset through smart user identification policy, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

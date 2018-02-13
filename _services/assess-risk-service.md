@@ -21,7 +21,7 @@ Increasingly our world runs on data; some of it critical, much of it confidentia
 The data stored in the _Total Rewards_ loyalty program was estimated to be worth over $1 billion and was at the centre of a very heated Caesar’s Palace bankruptcy feud with its creditors. Information in the loyalty program was deemed a more valuable asset then physical property, including the Roman-themed resort on the Las Vegas strip.
 
 **Not convinced data is at the centre of your organization?**  
-The world produces 2.5 quintillion bytes of information each day. This recent article by The World Economic Forum, [The value of data](https://www.weforum.org/agenda/2017/09/the-value-of-data/){:rel="nofollow noopener noreferrer"}{:target="_blank"} _states:_
+The world produces 2.5 quintillion bytes of information each day. This recent article by The World Economic Forum, [The value of data](https://www.weforum.org/agenda/2017/09/the-value-of-data/){:rel="nofollow noopener noreferrer"}{:target="_blank"} states:
 
 > ### In this age of hyper connected consumers, data is definitely the new age ‘oil’.
 -- <cite>World Economic Forum</cite>
