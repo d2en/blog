@@ -2,6 +2,7 @@
 layout:     post
 title:      "GDPR: European privacy protection"
 subtitle:   "Unified European privacy rules."
+description: "Personal privacy protection in Europe is nothing new. With the new GDPR directive, Europe has set out to unify and reinforce personal data protection."
 date:       2017-09-13 12:00:00
 permalink:  /GDPR
 author:     "dario"
