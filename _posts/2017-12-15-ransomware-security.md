@@ -29,8 +29,8 @@ Organizations need to define how they detect, protect and respond to ransomware 
 * **Keep information systems current and up to date —** Audit information systems and define update procedures
 * **Develop business continuity and disaster recovery plans —** Backups, incident management, contingency planning
 * **Install preventive controls —** Firewalls, endpoint security
-* **Maintain comprehensive logs and audit trails —** Log all suspicious activity
-* **Evaluate cyber liability insurance —** Protection against losses due to fraud
+* **Maintain comprehensive logs and audit trails —** Implement a security log management infrastructure
+* **Evaluate cyber liability insurance —** Protection against major losses
 
 Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of having your data held hostage by cybercriminals.
 
