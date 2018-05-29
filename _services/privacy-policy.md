@@ -6,7 +6,7 @@ description: "We care about your privacy."
 date: 2018-02-21 12:00:00
 permalink: /privacy-policy
 canonical_url:
-author: dario.pw Staff
+author: dario.com Staff
 header-img: "img/privacy-policy.jpg"
 image: "img/privacy-policy.jpg"
 header-title:
@@ -41,7 +41,7 @@ header-license: CC0 Creative Commons
 
 <h4>Links To Other Web Sites</h4>
 <p>Our Site may contain links to third-party web sites or services that we do not own or control.</p>
-<p>We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that dario.pw shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+<p>We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that <a href="{{ site.url }}">{{ site.title_name }}</a> shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 <p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
 
 <h4>Governing Law</h4>

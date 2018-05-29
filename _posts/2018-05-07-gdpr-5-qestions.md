@@ -3,9 +3,9 @@ layout:     post
 title:      "Quickly find out how GDPR might affect you"
 subtitle:   "Take 5 minutes to know where you stand on GDPR readiness."
 description: "With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance. Find out if GDPR affects your organization"
-date:       2018-05-07 12:00:00
+date:       2018-05-15 12:00:00
 permalink:  /gdpr-5-questions
-author:     dario.pw Staff post
+author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"
 image: "img/GDPR-privacy-protection.jpg"
 header-title:
