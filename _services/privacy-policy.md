@@ -17,7 +17,7 @@ header-license: CC0 Creative Commons
 
 <h2>Our Privacy Policy</h2>
 
-<p>One of our main priorities is the privacy of our visitors. This Privacy Policy document contains information on what data is
+<p>This Privacy Policy document contains information on what data is
    collected and how we use it.</p>
 
 <h3>Visitor Interests</h3>
