@@ -2,7 +2,7 @@
 layout: page
 title: "Privacy Policy"
 subtitle:
-description: "We care about your privacy."
+description: "Your privacy on our site."
 date: 2018-02-21 12:00:00
 permalink: /privacy-policy
 canonical_url:
